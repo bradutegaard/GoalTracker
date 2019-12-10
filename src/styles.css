@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Google font import - Roboto */
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+:root {
+  font-family: "Roboto", cursive;
+}
